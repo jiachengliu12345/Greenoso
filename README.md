@@ -5,4 +5,4 @@ Research focus: efficient generative models and agents.
 
 ---
 
-[Website](https://greenoso.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=_awln6YAAAAJ) 
+[Website](https://jiachengliu12345.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=_awln6YAAAAJ)
